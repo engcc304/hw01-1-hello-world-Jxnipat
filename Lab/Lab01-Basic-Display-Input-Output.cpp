@@ -1,4 +1,4 @@
-#include <stdio.h>
+ <stdio.h>
 
 int main() {
     char Name[50];
